@@ -5,3 +5,4 @@ uploads/*
 *.p12
 qrcodes/*
 nodemon.json
+package-lock.json
